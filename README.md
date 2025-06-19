@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Jose Carlos
 
-🚀 Embedded Systems Engineer | IoT | Firmware Development | Customer Success
-🔧 C | Python | PIC32 | FreeRTOS | MQTT
+🚀 Embedded Systems Engineer | IoT | Firmware Development | Customer Success |🔧 C | Python | PIC32 | FreeRTOS | MQTT
 
 ---
 
@@ -14,8 +13,7 @@
 - Yocto and custom Linux builds
 
 ## 📦 Projects
-- 🔌 [Power Meter Logger on STM32](https://github.com/josecarlos/stm32-power-logger)
-- 📡 [LoRaWAN Gateway Bridge](https://github.com/josecarlos/lorawan-bridge)
+- 🔌 [Power Meter Logger on PIC32](https://github.com/josecarlos/pic32-power-logger)
 - ⏱️ [Real-Time Scheduler in C](https://github.com/josecarlos/realtime-scheduler)
 
 ## 📫 Reach me at
